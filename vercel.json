@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/favicon.ico",
+      "destination": "https://ver.gold-team.sbs/static/favicon.ico"
+    },
+    {
       "source": "/(.*)",
       "destination": "/api/proxy"
     }
