@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/favicon.ico",
-      "destination": "https://ovh.valhalla-network.net/static/favicon.ico?v=2"
+      "destination": "https://core.valhalla-network.net/static/favicon.ico?v=2"
     },
     {
       "source": "/(.*)",
